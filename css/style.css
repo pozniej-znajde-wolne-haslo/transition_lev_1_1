@@ -1,0 +1,14 @@
+body{
+    max-width: 1400px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    transition: 2s ease-out;
+}
+
+div:hover {
+    width: 100vw;
+}
